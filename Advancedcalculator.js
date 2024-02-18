@@ -23,7 +23,7 @@ function calculate() {
 
 function squareRoot() {
     let display = document.getElementById("display");
-    display.value += "√";
+    display.value += "sqrt(";
 }
 
 function base10Log() {
